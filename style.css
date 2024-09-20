@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('unnamed.jpg');
+    background-position: cover;
+    background-repeat: no-repeat;
+}
+.title{
+    text-align: center;
+    background-color: rgb(104, 241, 241);
+    padding: 15px;
+    color: black;
+    font-family: serif;
+    margin-top: 5px;
+    position: relative;
+    margin-top: 10px;
+}
+.container{
+    border: 2px solid black;
+   margin-top: 50px;
+
+}
+.fig{
+    padding: 15px;
+}
+form{
+    text-align: center;
+    align-items: center;
+    
+}
+.img{
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    top: 0px;
+    left: 28px;
+}
+
+
+
